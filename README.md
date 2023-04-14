@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Alison
-- 👀 I’m interested in AI technology
-- 🌱 I’m currently learning computer science in UNSW
+- 👀 I’m interested in AI technology, Backend Develop
+- 🌱 I’m currently on 2nd Year of Bachelor of Commerce & Computer Science in UNSW
 - 📫 How to reach me:
 -       Phone: 0481038930
 -       Email: J99Y19@gmail.com
