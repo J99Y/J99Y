@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI technology, Backend Develop
 - 🌱 I’m currently on 3rd Year of Bachelor of Commerce & Computer Science in UNSW
 - 📫 How to reach me:
--       Phone: 0466098252
+-       Phone:
 -       Email: J99Y19@gmail.com
 
 <!---
